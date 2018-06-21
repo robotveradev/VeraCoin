@@ -1,2 +1,2 @@
 # VeraCoin
-VeraCoin token and crowdsale contracts
+VeraCoin token and crowdsale contracts.
