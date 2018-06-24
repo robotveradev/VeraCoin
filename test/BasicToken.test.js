@@ -1,4 +1,3 @@
-import assertRevert from './helpers/assertRevert';
 import expectThrow from './helpers/expectThrow';
 const BasicToken = artifacts.require('BasicTokenMock');
 
